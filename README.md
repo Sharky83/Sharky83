@@ -1,8 +1,5 @@
-<h1 align="center">Hi 👋, I'm Alex B.</h1>
-<h3 align="center">deepdive learning frontend development</h3>
-
-- 🌱 I’m currently learning **deep diving into learning frontend dev**
-
+Hi 👋, I'm Alex B.
+- 🌱 I’m currently learning: deeper understanding of html and css.
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
