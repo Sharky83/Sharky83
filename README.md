@@ -1,5 +1,5 @@
 Hi 👋, I'm Alex B.
-- 🌱 I’m currently learning: deeper understanding of html and css.
+- 🌱 I’m currently learning: deeper understanding of html and css for frontend development
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
