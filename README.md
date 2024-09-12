@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-I'm Alex, and I do a little bit of coding. Here are some of the technologies I work with:
+I'm Alex, and I do a little bit of coding here and there. Here are some of the technologies I work with:
 
 ### Languages and Tools:
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
