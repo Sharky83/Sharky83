@@ -46,31 +46,19 @@ Modern, server-side rendered applications built with Next.js and PostgreSQL.
 
 ---
 
-## 📊 **GitHub Stats**
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sharky83&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sharky83&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-</div>
-
----
-
 ## 🌱 **Currently Learning**
 - Advanced React patterns and performance optimization
 - Next.js 14+ features (App Router, Server Components)
 - PostgreSQL optimization and advanced querying
 - Cloud deployment with AWS/Vercel
+- Payload CMS for headless content management
 
 ---
 
 ## 📫 **Let's Connect!**
 
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)](https://github.com/sharky83)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com/in/yourprofile)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:your.email@gmail.com)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:alex_brocky@hotmail.com)
 
 ---
 
