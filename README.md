@@ -1,6 +1,6 @@
-# Hi there! 👋 I'm Alex
+# Hi there! 
 
-### 🚀 Full-Stack Developer | Building Modern Web Applications
+### Full-Stack Developer | Building Modern Web Applications
 
 I'm passionate about creating efficient, user-friendly web applications. Currently working on a **Car Rental Management System** and always exploring new technologies to solve real-world problems.
 
